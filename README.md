@@ -3,7 +3,7 @@
 OnlyReset enhances Zen Browser by removing the "close tab" button from pinned tabs, ensuring they remain permanently available in your workspace. With this mod, the only option left for pinned tabs is to reset them, preventing accidental closures and improving workflow efficiency.
 
 ✅ Prevents accidental tab closures
-✅ Keeps essential tabs fixed in place
-✅ Enhances workspace organization and productivity
+✅ Reset the tab to original state
+✅ Use right-click menu to close tab when needed
 
-Install OnlyReset today and keep your important tabs secure!
+Install OnlyReset today and keep your pinned tabs secure!
